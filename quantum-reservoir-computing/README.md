@@ -42,16 +42,6 @@ The overall workflow consists of:
 4. Training a classical linear readout.
 5. Evaluating prediction accuracy in simulation and, where available, on physical quantum hardware.
 
-## Research Focus
-
-The project addresses three closely related questions:
-
-- Can time-encoded quantum dynamics provide useful representations for nonlinear time-series prediction?
-- How does predictive performance change when the reservoir is evaluated on physical quantum hardware rather than in simulation?
-- What limitations arise when a quantum reservoir is used for autonomous forecasting of chaotic dynamics?
-
-Together, the simulations, hardware experiments, and thesis provide complementary perspectives on the potential and practical limitations of time-encoded quantum reservoir computing.
-
 ## Reproducibility
 
 The simulation and hardware directories contain the available figures and documentation for their respective experiments. The hardware results are presented as saved outputs; reproducing the physical-device experiments may require access to IBM Quantum services and a compatible backend.
