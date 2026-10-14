@@ -24,11 +24,3 @@ This figure compares the predictive performance obtained in simulation with that
 |---|---:|
 | Ideal simulation | 0.00450 |
 | IBM Quantum hardware | 0.01238 |
-
-The hardware implementation achieves a test RMSE of approximately **0.01238**, compared with **0.00450** in simulation. The hardware error is approximately 2.75 times larger, reflecting the additional challenges associated with physical quantum execution and measurement.
-
-## Key Findings
-
-- **Predictive performance:** The model retains predictive capability when executed on real quantum hardware.
-- **Hardware effects:** The higher test error indicates a measurable performance gap between simulation and hardware execution.
-- **Practical relevance:** The results provide a benchmark for assessing the feasibility of time-encoded quantum reservoir computing under realistic hardware constraints.
