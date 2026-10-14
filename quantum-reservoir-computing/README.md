@@ -22,7 +22,7 @@ The hardware results are compared with simulation to investigate the effects of 
 
 The evaluation yields a test RMSE of approximately **0.01238** on real hardware, compared with **0.00450** in simulation.
 
-See [`hardware/`](hardware/) for the saved diagnostic figures and the simulation-versus-hardware comparison.
+See [`hardware/`](hardware-results/) for the saved diagnostic figures and the simulation-versus-hardware comparison.
 
 ### 3. Thesis
 
