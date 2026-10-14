@@ -9,7 +9,7 @@ This repository contains supplementary materials for the research projects prese
 Investigates time-encoded quantum reservoir computing for nonlinear and chaotic time-series prediction, combining numerical simulations with experiments on real quantum hardware.
 
 - [Simulation results and notebook](quantum-reservoir-computing/simulations/)
-- [IBM Quantum hardware results](quantum-reservoir-computing/hardware/)
+- [IBM Quantum hardware results](quantum-reservoir-computing/hardware-results/)
 - [Bachelor's thesis and English abstract](quantum-reservoir-computing/thesis/)
 
 ### 2. Philosophy of Science: Causal Antifundamentalism and the Base-Rate Fallacy
