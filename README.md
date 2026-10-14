@@ -19,16 +19,3 @@ Examines John D. Norton's argument against causal fundamentalism through a forma
 - [English abstract](philosophy-of-science/abstract_en.md)
 - [Full paper (Hungarian)](philosophy-of-science/paper_hu.pdf)
 
-## Repository Structure
-
-```text
-research-portfolio/
-├── README.md
-├── quantum-reservoir-computing/
-│   ├── README.md
-│   ├── simulations/
-│   ├── hardware/
-│   └── thesis/
-└── philosophy-of-science/
-    ├── abstract_en.md
-    └── paper_hu.pdf
