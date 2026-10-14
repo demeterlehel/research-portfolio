@@ -10,13 +10,13 @@ This directory contains results from evaluating a time-encoded quantum reservoir
 
 The figure summarizes the model's predictions on the test set, the relationship between predicted and reference values, and the residual errors.
 
-![Hardware prediction diagnostics](figures/hardware_prediction_diagnostics.png)
+![Hardware prediction diagnostics](figures/ibm_hardware_prediction_diagnostics.png)
 
 ### Simulation vs. Hardware
 
 This figure compares the predictive performance obtained in simulation with that measured on real quantum hardware, illustrating the effects of finite-shot measurements and device noise.
 
-![Simulation vs. hardware](figures/simulation_vs_hardware.png)
+![Simulation vs. hardware](figures/simulation_vs_hardware_comparison.png)
 
 ## Quantitative Evaluation
 
