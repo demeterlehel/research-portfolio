@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory contains results from evaluating a time-encoded quantum reservoir computing model on real IBM Quantum hardware. The experiment investigates whether the predictive performance demonstrated in simulation can be retained when the reservoir is executed on a physical quantum processor.
+This project evaluates a six-qubit, time-encoded quantum reservoir computing architecture on IBM's `ibm_brisbane` quantum processor. The six-qubit reservoir is executed on a physical subset of the processor's qubits, enabling a direct comparison between simulated and hardware-based predictions. IBM Brisbane is a superconducting quantum processor based on the Heron architecture, featuring tunable couplers and a heavy-hexagonal connectivity topology. The experiment examines how finite-shot measurement statistics, gate imperfections, and other hardware effects influence the predictive performance of the reservoir.
 
 ## Results
 
